@@ -1,0 +1,50 @@
+body{
+    background-image: url('bob2.jpg');
+}
+div{
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 70px;
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#name{
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: lightcyan;
+}
+#gender{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
+}
+#occupation{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightskyblue;
+}
+#firstepisode{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+input{
+    border: 2px solid black;
+    color: black;
+    background-image: linear-gradient(to right,white,brown);
+    font-size: 15px;
+    width: 400px;
+    border-radius: 20px;
+    height: 40px;
+    cursor: pointer;
+}
+button{
+    border: 2px solid black;
+    background-image: linear-gradient(to left,rgb(212, 133, 146),white);
+    text-align: center;
+    width: 150px;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 35px;
+    cursor: pointer;
+}
